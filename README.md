@@ -10,7 +10,7 @@ Supplementary material for the CHI 2019 paper **"Measuring and Understanding Pho
 
 BiBTeX:
 ```
-@inproceedings{Elali2018,
+@inproceedings{Li2019,
   title = {Measuring and Understanding Photo Sharing Experiences in Social Virtual Reality},
   author = {Jie Li and Yiping Kong and Thomas R{\"o}ggla and Francesca De Simone and Swamy Ananthanarayan and Huib de Ridder and Abdallah El Ali and Pablo Cesar},
   booktitle = {Proceedings of the International Conference on Human Factors in Computing Systems 2019},
